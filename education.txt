@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>yasmien page</title>
+<style>
+body {
+  background-image: url('images/wallpaper2.jpg');
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9999;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: arial black;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ff9999;
+}
+
+.active {
+  background-color: #ff9999;
+}
+.mix {
+ font-size: 40px;
+ font-family:arial black
+}
+
+.copyright{
+ background-color:transparent;
+ color:black;
+ text-align: center;
+ padding: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ font-size: 15px;
+ height: 20px;
+ width: 1256px;
+}
+</style>
+<ul>
+  <li><a class="active" href="index.html">HOME</a></li>
+  <li><a href="biodata.html">BIODATA</a></li>
+  <li><a href="experience.html">EXPERIENCE</a></li>
+  <li><a href="education.html">EDUCATION</a></li>
+  <li><a href="family.html">FAMILY</a></li>
+  <li><a href="galleryku.html">GALLERY</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+</ul>
+</head>
+<body>
+<h2><center><p class="mix" >MY EDUCATION &#10047; </p></center></h2>
+<center>
+<br><br><img src="images/sklogo.png" width="300" height="300">
+<br><br><p><a href="edu.html">SK PERMATANG PASIR</a></p>
+<br><br><img src="images/smklogo.jpeg" width="400" height="400">
+<br><br><p><a href="edu2.html">SMK PERMATANG PASIR</a></p>
+<br><br><img src="images/uitmlogo.png" width="400" height="400">
+<br><br><p><a href="edu3.html">UNIVERSITI TEKNOLOGI MARA KEDAH</a></p></center>
+
+<hr class="solid">
+</body>
+<footer>
+<div class="copyright";>COPYRIGHT PAGE BY YASMIEN @ 2021</div>
+ </footer>
+</html>

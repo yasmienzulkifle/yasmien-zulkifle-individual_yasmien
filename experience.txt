@@ -1,0 +1,101 @@
+<html>
+<head>
+<title>yasmien page</title>
+<style>
+body {
+  background-image: url('images/wallpaper2.jpg');
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9999;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: arial black;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ff9999;
+}
+
+.active {
+  background-color: #ff9999;
+}
+
+.mix {
+ font-size: 50px;
+ font-family:arial black
+}
+
+.info {
+  background-color:  #ffccff;
+  border-left: 20px solid #ff00ff;
+  font-family: Comic Sans MS;
+}
+.copyright{
+ background-color:transparent;
+ color:black;
+ text-align: center;
+ padding: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ font-size: 15px;
+ height: 20px;
+ width: 1256px;
+}
+</style>
+<ul>
+  <li><a class="active" href="index.html">HOME</a></li>
+  <li><a href="biodata.html">BIODATA</a></li>
+  <li><a href="experience.html">EXPERIENCE</a></li>
+  <li><a href="education.html">EDUCATION</a></li>
+  <li><a href="family.html">FAMILY</a></li>
+  <li><a href="galleryku.html">GALLERY</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+</ul>
+</head>
+<body>
+
+<div class="row">
+	<div class="leftcolumn">
+	<div class="card">
+	<h2><center><p class="mix" >MY EXPERIENCE &#10047; </p></center></h2>
+
+<div class="info">
+  <p><strong>Info!</strong>
+<center><p><b>BUSINESS ONLINE</p></center>
+<center><p> i have an experience make a bussiess online which is i become a dropship to sell
+scarf and bouquete of scarf . This is best experience that i can sell what 
+i like to wear in my daily life. But i stop temporarily because i  want to focus in my studies :(
+This expereince is very fun because i learn how to treat customers well >3<p></center>
+
+<center><img src="images/scarf1.jpeg" width="300" height="300">
+<img src="images/scarf2.jpeg" width="300" height="300">
+<img src="images/scarf3.jpeg" width="300" height="300">
+<img src="images/scarf4.jpeg" width="300" height="300">
+<img src="images/mien.jpeg" width="300" height="300">
+<img src="images/scarf6.jpeg" width="300" height="300">
+<img src="images/scarf7.jpeg" width="300" height="300">
+<img src="images/scarf5.jpeg" width="300" height="300"></center>
+</div class="info">
+
+<hr class="solid">
+</body>
+<footer>
+<div class="copyright";>COPYRIGHT PAGE BY YASMIEN @ 2021</div>
+ </footer>
+</html>
+

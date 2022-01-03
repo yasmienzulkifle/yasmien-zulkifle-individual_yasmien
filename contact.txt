@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>yasmien page</title>
+<style>
+body {
+  background-color: #ffcce6;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9999;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: arial black;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ff9999;
+}
+
+.active {
+  background-color: #ff9999;
+}
+table, th, td {
+  border:1px solid black;
+}
+
+ul.a {
+   list-style-type:disc;
+  
+}
+
+ul.b {
+  list-style-type: circle;
+}
+ td {
+  border-color: #96D4D4;
+  border: 10px solid white;
+  border-collapse: collapse;
+}
+.h1 {
+  font-family:freestyle script;
+  font-size:50px;
+}
+.copyright{
+ background-color:transparent;
+ color:black;
+ text-align: center;
+ padding: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ font-size: 15px;
+ height: 20px;
+ width: 1256px;
+}
+
+</style>
+<ul>
+  <li><a class="active" href="index.html">HOME</a></li>
+  <li><a href="biodata.html">BIODATA</a></li>
+  <li><a href="experience.html">EXPERIENCE</a></li>
+  <li><a href="education.html">EDUCATION</a></li>
+  <li><a href="family.html">FAMILY</a></li>
+  <li><a href="galleryku.html">GALLERY</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+</ul>
+</head>
+<body>
+<center><div class="h1";>
+<center><br>My Social Media<3<br>
+<img src="images/hijab.gif" width="300" height="300"></center>
+<p>
+<p><center>
+<a target="_blank" href="https://www.instagram.com/yasmien.zulkifle">
+<img src="images/ig.png" alt="Enter" style="height:100px;align:left;"></a href>
+<p>
+Do follow my instagram.
+<p>
+<a target="_blank" href="https://www.twitter.com/yasmienzulkifle">
+<img src="images/twittterr.png" alt="Enter" style="height:100px;align:left;"></a href>
+<p>
+Do follow my twitter.
+</body>
+</p></center>
+</div class="h1";>
+<hr class="solid">
+</body>
+<footer>
+<div class="copyright";>COPYRIGHT PAGE BY YASMIEN @ 2021</div>
+ </footer>
+</html>

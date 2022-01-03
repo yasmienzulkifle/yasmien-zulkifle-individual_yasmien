@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>yasmien page</title>
+<style>
+body {
+  background-color:#ffe6cc;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ff9999;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family:arial black;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ff9999;
+}
+
+.active {
+  background-color: #ff9999;
+
+}
+.copyright{
+ background-color:transparent;
+ color:black;
+ text-align: center;
+ padding: 30px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 0px;
+ font-size: 15px;
+ height: 20px;
+ width: 1256px;
+}
+</style>
+<ul>
+  <li><a class="active" href="index.html">HOME</a></li>
+  <li><a href="biodata.html">BIODATA</a></li>
+  <li><a href="experience.html">EXPERIENCE</a></li>
+  <li><a href="education.html">EDUCATION</a></li>
+  <li><a href="family.html">FAMILY</a></li>
+  <li><a href="galleryku.html">GALLERY</a></li>
+  <li><a href="contact.html">CONTACT</a></li>
+</ul>
+</head>
+<body>
+	<div class="row">
+	<div class="leftcolumn">
+	<div class="card">
+	<h2><center><p class="mix">MY GALLERY 2021 &#10047; </p></center></h2>
+
+<center><p><b>ME :)</p></b></center>
+<center><img src="images/random.jpeg" width="300" height="300">
+<img src="images/mien2.jpeg" width="300" height="300">
+<img src="images/mien3.jpeg" width="300" height="300">
+<img src="images/mien4.jpeg" width="300" height="300">
+<img src="images/yasmien.jpeg" width="300" height="300">
+<img src="images/yasmien1.jpeg" width="300" height="300">
+<img src="images/random2.jpeg" width="300" height="300">
+<img src="images/mien5.jpeg" width="300" height="300"></center>
+
+<center><p><b>MY LOVELY FAMILY >3</p></b></center>
+<center><img src="images/kesayangan1.gif" width="400" height="400"></center>
+
+<center><p><b>MY BESTFRIENDS FOREVER^^</p></b></center>
+<center><img src="images/girl.jpeg" width="300" height="300">
+<img src="images/girl2.jpeg" width="300" height="300">
+<img src="images/girl3.jpeg" width="300" height="300">
+<img src="images/girl4.jpeg" width="300" height="300">
+<img src="images/girl5.jpeg" width="300" height="300">
+<img src="images/girl7.jpeg" width="300" height="300">
+<img src="images/girl8.jpeg" width="300" height="300">
+<img src="images/girl9.jpeg" width="300" height="300"></center>
+
+<center><p><b>RANDOM CLOUD^^</p></b></center>
+<center><img src="images/awan1.jpeg" width="300" height="300">
+<img src="images/awan2.jpeg" width="300" height="300">
+<img src="images/awan3.jpeg" width="300" height="300">
+<img src="images/awan4.jpeg" width="300" height="300">
+<img src="images/awan5.jpeg" width="300" height="300">
+<img src="images/awan6.jpeg" width="300" height="300">
+<img src="images/awan7.jpeg" width="300" height="300">
+<img src="images/awan8.jpeg" width="300" height="300"></center>
+
+<hr class="solid">
+</body>
+<footer>
+<div class="copyright";>COPYRIGHT PAGE BY YASMIEN @ 2021</div>
+ </footer>
+</html>
+
